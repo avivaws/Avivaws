@@ -10,7 +10,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :man_student: I am a $2^{nd}$ year Computer Science student at Ben Gurion University
+- :man_student: I am a $3^{rd}$ year Computer Science student at Ben Gurion University
 - ⚡ In my free time, I am expanding my technological and programming knowledge. currently I am studing on diffrent ways to extract and analyze data with python
 
 
